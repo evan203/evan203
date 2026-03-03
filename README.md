@@ -1,3 +1,7 @@
 ### Hi!
-I am a student at the University of Wisconsin - Madison studying computer science.    
-[Linkedin](https://www.linkedin.com/in/evan-scamehorn-b66a4226a/)
+
+I am a student at the University of Wisconsin - Madison studying computer science.
+
+Check out my [personal website](https://ejs.cam)
+
+[Connect with me on Linkedin](https://www.linkedin.com/in/evan-scamehorn-b66a4226a/)
